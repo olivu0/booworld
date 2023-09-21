@@ -1,0 +1,14 @@
+# some.html의 U가 사라지고 회색으로 변했다
+some.html
+
+# 모든 jpg 파일이 무시됨
+*.jpg
+
+# temp 폴더 전부 무시
+# temp
+
+# 폴더의 temp.jpg만 무시 
+# temp/temp.jpg만
+
+# temp 만 인식
+!temp
